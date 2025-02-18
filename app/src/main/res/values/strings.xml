@@ -1,0 +1,9 @@
+<resources>
+    <string name="nome">Guilherme Rodrigues</string>
+    <string name="funcao">Desenvolvedor Fullstack</string>
+    <string name="title">Perfil</string>
+    <string name="celular">+55 (43) 9 8481-5539</string>
+    <string name="email">guilhermedequeiroz2014@gmail.com</string>
+    <string name="github">guilherme-rodrigues-de-queiroz</string>
+    <string name="linkedin">in/guilhermedequeiroz</string>
+</resources>
